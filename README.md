@@ -5,6 +5,6 @@ This training program has been jointly organized by BASIS Institute of Technolog
 
 ![](/dsml1.jpg)
 
-![](/dsm2.jpg)
+![](/dsml2.jpg)
 
 BASIS Institute of Technology & Management (BITM) | BDBL Bhaban (Level-3), 12 Kawran bazar, Dhaka-1215, Bangladesh | P: +88 09612322747, F: +880 2 8151197 | E: info@bitm.org.bd | W: www.bitm.org.bd
